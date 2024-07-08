@@ -12,5 +12,8 @@ This repository contains Python implementations of various papers that I have st
 
 5. Persian speech emotion recognition using HuBERT, based on [this](https://arxiv.org/pdf/2106.07447) paper
 
+6. Sentiment analysis of Persian tweets
+using CNN-LSTM model and implementation of required preprocessing steps as well as feature representation based on [this](https://arxiv.org/pdf/2307.07740) paper
+
 
 **Note:**  You may find identical code to sections 3 to 5 [here](https://github.com/Ipouyall/DeepNeuralNetworkExploration). This is because the course homework assignments could be completed in pairs, and the individual I mentioned was my partner for those assignments. Each of us implemented a completely different paper. However, our collaboration has since ended, and as a result, I have not included his code here. Despite this, he has uploaded my code on his own GitHub page without crediting me!
